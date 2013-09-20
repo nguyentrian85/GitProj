@@ -1,5 +1,8 @@
 package com.git.local;
 
 public class Test2 {
-ass
+	private void print2() {
+		// TODO Auto-generated method stub
+
+	}
 }
